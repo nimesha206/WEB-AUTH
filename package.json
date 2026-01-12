@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "api/auth.js",
   "dependencies": {
-    "mongoose": "^9.1.3"
+    "mongoose": "^9.1.2"
   }
 }
